@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
+  <diagram name="Página-1" id="s1mfEP2hD0vi0YmTzahS">
+    <mxGraphModel dx="1002" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZoWspw9lm-BYq2jMtGHr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZoWspw9lm-BYq2jMtGHr-1" target="ZoWspw9lm-BYq2jMtGHr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoWspw9lm-BYq2jMtGHr-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="10" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoWspw9lm-BYq2jMtGHr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZoWspw9lm-BYq2jMtGHr-2" target="ZoWspw9lm-BYq2jMtGHr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoWspw9lm-BYq2jMtGHr-2" value="&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;&quot;Por favor, ingrese el radio del círculo: &quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="195" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoWspw9lm-BYq2jMtGHr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZoWspw9lm-BYq2jMtGHr-4" target="ZoWspw9lm-BYq2jMtGHr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoWspw9lm-BYq2jMtGHr-4" value="&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;Definir y asignar a la variable área el resultado de pi * radio^2&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="340" width="145" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoWspw9lm-BYq2jMtGHr-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZoWspw9lm-BYq2jMtGHr-6" target="ZoWspw9lm-BYq2jMtGHr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoWspw9lm-BYq2jMtGHr-6" value="&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;&quot;El área del círculo con radio&quot;, radio, &quot;es: &quot;, area&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="490" width="160" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoWspw9lm-BYq2jMtGHr-8" value="Fin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="285" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
